@@ -1,6 +1,6 @@
 # Furniture Store Sales Database Project
 
-This project involves creating and managing a SQL database for a fictional furniture store's sales data. It demonstrates the use of SQL for data management, storage, and simple transaction queries.
+This project involves creating and managing a SQL database for a furniture store's sales data. It demonstrates the use of SQL for data management, storage, and simple transaction queries.
 
 ## Project Overview
 
